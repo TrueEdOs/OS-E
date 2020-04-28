@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  LR2_2.cpp
+D:\gitPro\OS-E\Lab2\LR2_2\LR2_2.cpp(32,10): warning C4477: "wprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "3" имеет тип "LPVOID"
+D:\gitPro\OS-E\Lab2\LR2_2\LR2_2.cpp(107,24): warning C4474: "scanf_s" : для строки формата передано слишком много аргументов
+D:\gitPro\OS-E\Lab2\LR2_2\LR2_2.cpp(107,24): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  LR2_2.vcxproj -> D:\gitPro\OS-E\Lab2\Debug\LR2_2.exe

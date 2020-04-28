@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Lab11.cpp
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(136,6): warning C4311: приведение типов: усечение указателя из "LPVOID" в "int"
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(136,6): warning C4302: приведение типов: усечение из "LPVOID" к "int"
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(160,62): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(161,62): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(205,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(205,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(206,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(206,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(207,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(207,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(208,44): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\gitPro\OS-E\Lab11\Lab11\Lab11.cpp(208,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Lab11.vcxproj -> D:\gitPro\OS-E\Lab11\x64\Debug\Lab11.exe

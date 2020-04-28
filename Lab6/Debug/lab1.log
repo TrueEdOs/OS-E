@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (lab1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab6.cpp
+D:\gitPro\OS-E\Lab6\Lab6.cpp(41,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab1.vcxproj -> D:\gitPro\OS-E\Lab6\Debug\lab6.exe

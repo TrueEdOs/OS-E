@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Lab3.cpp
+D:\gitPro\OS-E\Lab8\Lab3\Lab3.cpp(143,21): warning C4101: i: неиспользованная локальная переменная
+  Lab3.vcxproj -> D:\gitPro\OS-E\Lab8\Debug\Lab3.exe
